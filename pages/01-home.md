@@ -1,4 +1,5 @@
 Title: Herzlich willkommen
+Order: 1
 
 Haben Sie rechtliche Probleme? Fühlen Sie sich ungerecht behandelt? Wollen Sie in erster Linie Auskunft erhalten, wie ihre rechtliche Lage aussieht. Als pat. Rechtsagent und über 30 Jahre Erfahrung als Rechtsberater und Tätigkeit in der öffentlichen Verwaltung berate ich Sie in alltäglichen Fragen kompetent und umfassend. 
 

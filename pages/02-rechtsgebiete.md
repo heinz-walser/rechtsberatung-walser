@@ -1,4 +1,5 @@
 Title: Rechtsgebiete
+Order: 2
 
 ### Güter- und Erbrecht		
 - Beratung für die Ausarbeitung von Ehe- und Erbverträgen
