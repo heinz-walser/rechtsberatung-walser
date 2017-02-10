@@ -23,8 +23,8 @@ TIMEZONE = u'Europe/Zurich'
 DEFAULT_LANG = u'en'
 CATEGORYICONS = ''
 USE_FOLDER_AS_CATEGORY = True
-ARTICLE_ORDER_BY = 'Order'
-PAGE_ORDER_BY = 'Order'
+ARTICLE_ORDER_BY = 'order'
+PAGE_ORDER_BY = 'order'
 # nice themes
 # - html5-dopetrope
 # - twenty-html5up

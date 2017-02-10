@@ -1,5 +1,5 @@
 Title: Links
-Order: 4
+order: 04
 
 
 - [Systematische Sammlung des Bundesrechts](https://www.admin.ch/gov/de/start/bundesrecht/systematische-sammlung.html)
